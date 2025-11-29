@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+pandas
+openpyxl
+playwright
+beautifulsoup4
+lxml
+openai>=1.6.0
